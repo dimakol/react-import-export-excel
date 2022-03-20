@@ -1,0 +1,29 @@
+.App {
+  margin: 3%;
+}
+
+.header {
+  margin: 4% 2%;
+  text-align: center;
+}
+
+.mr {
+  margin-right: 5px;
+}
+
+.bgvi {
+  background-color: rgb(97, 50, 205);
+  color: aliceblue;
+}
+
+.even {
+  background-color: yellowgreen;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
